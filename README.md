@@ -26,9 +26,10 @@ DDPMs are generative models that leverage the concept of diffusion processes to 
 
 ## Code Structure
 
-- `DDPM_implementation.py`: Main script containing the implementation of DDPM, training procedure, and sample generation.
-- `README.md`: This file providing an overview of the project.
-- `requirements.txt`: List of dependencies required to run the project.
+- `DDPM_implementation.py`: main script containing the implementation of DDPM, training procedure, and sample generation;
+- `DDPM_demo.ipynb`: a demonstration of the implemented model with examples;
+- `README.md`: an overview of the project;
+- `requirements.txt`: list of dependencies required to run the project.
 
 ## Acknowledgments
 
