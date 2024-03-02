@@ -2,7 +2,7 @@
 
 ## Overview
 
-DDPMs are generative models that leverage the concept of diffusion processes to model the data distribution. This is a simplified implementation of diffusion model from the paper "Differentiable Diffusion Probabilistic Models" as a final project for the course "Deep Generative Models" at the HSE University.
+DDPMs are generative models that leverage the concept of diffusion processes to model the data distribution. This is a simplified implementation of diffusion model based on the paper "Differentiable Diffusion Probabilistic Models" as a final project for the course "Deep Generative Models" at the HSE University.
 
 ## Code Structure
 - `DDPM_demo.ipynb`: main script containing the implementation of DDPM, training procedure, and sample generation;
