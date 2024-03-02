@@ -18,7 +18,7 @@ DDPMs are generative models that leverage the concept of diffusion processes to 
     pip install -r requirements.txt
     ```
 
-3. Train the model on MNIST dataset:
+3. Train the model:
 
     ```
     python DDPM_implementation.py
